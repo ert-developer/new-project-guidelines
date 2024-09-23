@@ -1,5 +1,6 @@
 # IN PROGRESS
 
+
 # Standard
 1. Every check-in must be validated against responsiveness
 1. No console error 
