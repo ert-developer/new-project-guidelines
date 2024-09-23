@@ -14,9 +14,9 @@
 
 ## Naming Convention
 1. CSS class name: `kebab-case`
-1. Javascript variable name: `pascal-case`
+1. Javascript variable name: `camel-case`
 1. Constant: `upper-case`
-1. React Component: `camel-case`
+1. React Component: `pascal-case`
 1. File Name: `kebab-case`
 
 
